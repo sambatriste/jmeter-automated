@@ -1,0 +1,3 @@
+https://www.blazemeter.com/ja/blog/5-ways-launch-jmeter-test-without-using-jmeter-gui/
+
+https://www.programcreek.com/java-api-examples/?code=Wolfgang-Winter%2Fcibet%2Fcibet-master%2Fcibet-integrationtest%2Fsrc%2Ftest%2Fjava%2Fcom%2Flogitags%2Fcibet%2Ftutorial%2FTutorial6.java#
